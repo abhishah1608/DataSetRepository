@@ -1,0 +1,52 @@
+[
+  {
+    "companyname": "Samyak infotech",
+    "name": "Leo",
+    "designation": "Senior Software Developer",
+    "employeeid": 1,
+    "paystubdate": "2023-01-02",
+    "biweeklypay": 2150,
+    "monthlypay": 4280,
+    "annualpay": 52000
+  },
+  {
+    "companyname": "Samyak Infotech",
+    "name": "Edison",
+    "designation": "Software Architect",
+    "employeeid": 6,
+    "paystubdate": "2023-01-02",
+    "biweeklypay": 4012.75,
+    "monthlypay": 8000,
+    "annualpay": 96000
+  },
+  {
+    "companyname": "Windowmaker software pvt. limited",
+    "name": "Michael",
+    "designation": "Software Developer",
+    "employeeid": 2,
+    "paystubdate": "2023-01-02",
+    "biweeklypay": 1135.76,
+    "monthlypay": 2145.8,
+    "annualpay": 24250.85
+  },
+  {
+    "companyname": "Windowmaker software pvt. limited",
+    "name": "James",
+    "designation": "QA",
+    "employeeid": 3,
+    "paystubdate": "2023-01-02",
+    "biweeklypay": 800.25,
+    "monthlypay": 1600,
+    "annualpay": 19200
+  },
+  {
+    "companyname": "Windowmaker software pvt. limited",
+    "name": "Jackson",
+    "designation": "QA",
+    "employeeid": 4,
+    "paystubdate": "2023-01-02",
+    "biweeklypay": 1500.25,
+    "monthlypay": 3000,
+    "annualpay": 45350.8
+  }
+]
